@@ -1,0 +1,28 @@
+.show{
+    margin-top: 10px;
+    color: brown;
+    border: 1px solid black;
+    display: flex;
+    height: 15rem;
+    
+    gap: 1px;
+}
+
+.description{
+    border-left: 1px solid;
+    overflow: auto;
+    padding: 10px;
+}
+
+img{
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.show-details{
+    max-width: 10em;
+}
+
+.date{
+    margin-top: auto;
+}

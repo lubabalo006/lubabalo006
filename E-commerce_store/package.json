@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "react-icons": "^5.0.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "your-dev-command-here"
+}
+
 }
