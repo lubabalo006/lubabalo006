@@ -1,0 +1,16 @@
+
+
+.navbar {
+    padding: 1rem;
+    background-color: rgba(31, 29, 29, 0.89);
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar a {
+    padding-right: 2rem;
+    color: white;
+}
