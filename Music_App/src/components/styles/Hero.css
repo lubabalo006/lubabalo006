@@ -1,0 +1,22 @@
+
+
+.hero{
+    max-width: 100%;
+
+}
+
+
+.songsCard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.songsPreview {
+    border: 1px solid;
+    width: 9rem;
+}
+
+.cardImage{
+    max-width: 100%;
+}
