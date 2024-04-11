@@ -1,0 +1,83 @@
+body {
+    padding: 1rem;
+}
+
+
+/*  HEADER SECTION  */
+
+.header {
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.89);
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.header a {
+    padding-right: 2rem;
+    color: white;
+}
+
+
+/*    MAIN SECTION    */
+
+.main-one {
+    color: aliceblue;
+    
+    text-align: center;
+    background: black;
+    padding: 1.5rem;
+    padding-top: 0;
+}
+
+/*     ABOUT US     */
+
+.main-two {
+    background-color: rgb(203, 204, 206);
+    padding: 0.5rem;
+}
+
+
+/*     SERVICES     */
+
+.services {
+    background-color: #2b2d2f;
+    display: flex;
+    justify-content: center;
+}
+
+.element {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 280px;
+    border: white solid 1px;
+    padding: 0.5rem;
+    
+  }
+.element img {
+    width: 100%;
+    
+}
+
+
+/*      FOOTER        */
+
+  .footer-links {
+    display: flex;
+    justify-content: end;
+    color: white;
+    padding-right: 25%;
+  }
+  .footer-links a {
+    color: rgb(187, 184, 184);
+  }
+
+  footer {
+    background-color: black;
+  }
+
+@media screen () {
+    
+}
