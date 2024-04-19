@@ -1,0 +1,4 @@
+var x = function (n1, n2) {
+    return n1 + n2;
+};
+console.log(x(4, 5));
