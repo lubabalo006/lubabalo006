@@ -16,7 +16,7 @@ function App() {
     setAmount(parseFloat(event.target.value));
   }
   return (
-    <div className="border-2 m-2">
+    <div className="border-2 m-2 w-3/5 text-center mx-auto bg-slate-200">
       <Heading title="Currency App"/>
       <Section>
         <div>
